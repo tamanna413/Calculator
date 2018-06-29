@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="login">login</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_the_e_mail">enter the E-mail</string>
+    <string name="log">Login</string>
+</resources>
